@@ -26,7 +26,7 @@ function loadData() {
 
 
 
-  var nyURL = 'http://api.nytimes.com/svc/search/v2/articlesearch.json?q=' + $street + '+' + $city + begin + '&api-key=' + api;
+  var nyURL = 'http://api.nytime.com/svc/search/v2/articlesearch.json?q=' + $street + '+' + $city + begin + '&api-key=' + api;
 
   $.getJSON(nyURL, function (data) {
     console.log(data);
@@ -41,24 +41,15 @@ function loadData() {
       $('#nytimes-articles').append(stuff);
 
     }
+  })
+    .fail(function () {
+    $nytElem.text("Something went wrong with something!");
   });
+           
+           
 
 
   return false;
 };
 
 $('#form-container').submit(loadData);
-
-
-
-$.getJSON("ajax/test.json", function (data) {
-  var items = [];
-  $.each(data, function (key, val) {
-    items.push("<li id='" + key + "'>" + val + "</li>");
-  });
-
-  $("<ul/>", {
-    "class": "my-new-list",
-    html: items.join("")
-  }).appendTo("body");
-});
