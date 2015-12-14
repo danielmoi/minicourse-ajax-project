@@ -1,0 +1,505 @@
+{
+  "response": {
+    "meta": {
+      "hits": 695,
+      "time": 424,
+      "offset": 0
+    },
+    "docs": [{
+      "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9D02E1DF1F3CE334BC4D53DFB366838D669EDE",
+      "snippet": "What is one to say about the new Alan Jay Lerner and Leonard Bernstein musical \"1600 Pennsylvania Avenue,\" which opened at the Mark Hellinger Theater last night? Bring back \"Rex\"! Possibly? Or if this is meant as a Bicentennial offering and it is, as...",
+      "lead_paragraph": "What is one to say about the new Alan Jay Lerner and Leonard Bernstein musical \"1600 Pennsylvania Avenue,\" which opened at the Mark Hellinger Theater last night? Bring back \"Rex\"! Possibly? Or if this is meant as a Bicentennial offering and it is, as the historically and topographically inclined will realize, about the White House maybe we should wait for the Tricentennial.",
+      "abstract": null,
+      "print_page": "47",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "'1600 Pennsylvania Avenue' Arrives"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "SIXTEEN HUNDRED PENNSYLVANIA AVENUE"
+      }, {
+        "name": "subject",
+        "value": "THEATER"
+      }, {
+        "name": "subject",
+        "value": "REVIEWS AND OTHER DATA ON SPECIFIC PRODUCTIONS"
+      }],
+      "pub_date": "1976-05-05T00:00:00Z",
+      "document_type": "article",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "rank": 1,
+          "firstname": "Clive",
+          "lastname": "BARNES"
+        }],
+        "original": "By CLIVE BARNES"
+      },
+      "type_of_material": "Article",
+      "_id": "4fc4979745c1498b0da7b7ce",
+      "word_count": 1072,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/www.nytimes.com\/1997\/07\/12\/theater\/a-london-concert-discards-the-dross.html",
+      "snippet": "The last time the British got their hands on the White House, they set it on fire, and it didn't fare much better over a century and a half later when Leonard Bernstein and Alan Jay Lerner seized on it for their ill-fated 1976 musical ''1600...",
+      "lead_paragraph": "The last time the British got their hands on the White House, they set it on fire, and it didn't fare much better over a century and a half later when Leonard Bernstein and Alan Jay Lerner seized on it for their ill-fated 1976 musical ''1600 Pennsylvania Avenue.'' The show, the sole collaboration between two men of formidable talent and achievement, was one of the greatest flops in Broadway history, closing after only seven performances at the Mark Hellinger Theater and crashing with added percussiveness because of the lofty heights of public expectation from which it fell. ''Only two titans could have a failure like this,'' Jerome Robbins, the choreographer who had a brief involvement with the show, remarked. No cast recording was made, and no advocates like those who rescued Bernstein's ''Candide'' after its Broadway failure in 1956 came forward to champion ''1600.''",
+      "abstract": "London Symphony Orchestra to resurrect songs from Leonard Bernstein's ill-fated 1976 musical 1600 Pennsylvania Avenue in work called A White House Cantata; photo (M)",
+      "print_page": "11",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "A London Concert Discards the Dross",
+        "kicker": "Saving Bernstein Pearls Lost With a '76 Show"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "1600 PENNSYLVANIA AVENUE (PLAY)"
+      }, {
+        "name": "persons",
+        "value": "BERNSTEIN, LEONARD"
+      }, {
+        "name": "organizations",
+        "value": "LONDON SYMPHONY ORCHESTRA"
+      }, {
+        "name": "subject",
+        "value": "MUSIC"
+      }, {
+        "name": "subject",
+        "value": "THEATER"
+      }],
+      "pub_date": "1997-07-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Cultural Desk",
+      "section_name": "Arts; Theater",
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "firstname": "Warren",
+          "rank": 1,
+          "lastname": "HOGE"
+        }],
+        "original": "By WARREN HOGE"
+      },
+      "type_of_material": "News",
+      "_id": "4fd1fc5a8eb7c8105d75b429",
+      "word_count": 1564,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/www.nytimes.com\/2015\/10\/12\/us\/after-1600-pennsylvania-avenue-where-to.html",
+      "snippet": "If the Obamas know where they will settle next, they are not talking, but that has not stopped a boomlet of media attention on potential post-presidential houses.",
+      "lead_paragraph": "If the Obamas know where they will settle next, they are not talking, but that has not stopped a boomlet of media attention on potential post-presidential houses.",
+      "abstract": "White House Letter; where Pres Obama and his family will live after he leaves office is subject of much speculation; Chicago is seen as unlikely, but repeated visits to California have raised possibility of a Golden State home; Washington, DC, may be most practical short-term decision as younger daughter Sasha finishes high school.",
+      "print_page": "12",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [{
+        "width": 190,
+        "url": "images\/2015\/10\/12\/us\/12whletter\/12whletter-thumbWide-v3.jpg",
+        "height": 126,
+        "subtype": "wide",
+        "legacy": {
+          "wide": "images\/2015\/10\/12\/us\/12whletter\/12whletter-thumbWide-v3.jpg",
+          "wideheight": "126",
+          "widewidth": "190"
+        },
+        "type": "image"
+      }, {
+        "width": 600,
+        "url": "images\/2015\/10\/12\/us\/12whletter\/12whletter-articleLarge-v3.jpg",
+        "height": 400,
+        "subtype": "xlarge",
+        "legacy": {
+          "xlargewidth": "600",
+          "xlarge": "images\/2015\/10\/12\/us\/12whletter\/12whletter-articleLarge-v3.jpg",
+          "xlargeheight": "400"
+        },
+        "type": "image"
+      }, {
+        "width": 75,
+        "url": "images\/2015\/10\/12\/us\/12whletter\/12whletter-thumbStandard-v5.jpg",
+        "height": 75,
+        "subtype": "thumbnail",
+        "legacy": {
+          "thumbnailheight": "75",
+          "thumbnail": "images\/2015\/10\/12\/us\/12whletter\/12whletter-thumbStandard-v5.jpg",
+          "thumbnailwidth": "75"
+        },
+        "type": "image"
+      }],
+      "headline": {
+        "main": "After 1600 Pennsylvania Avenue, Where To?",
+        "content_kicker": "White House Letter",
+        "kicker": "White House Letter",
+        "print_headline": "After 1600 Pennsylvania Avenue, Where To?"
+      },
+      "keywords": [{
+        "rank": "1",
+        "is_major": "Y",
+        "name": "persons",
+        "value": "Obama, Barack"
+      }, {
+        "rank": "2",
+        "is_major": "N",
+        "name": "persons",
+        "value": "Obama, Michelle"
+      }, {
+        "rank": "3",
+        "is_major": "N",
+        "name": "persons",
+        "value": "Obama, Sasha"
+      }],
+      "pub_date": "2015-10-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "firstname": "Gardiner",
+          "rank": 1,
+          "lastname": "HARRIS"
+        }],
+        "original": "By GARDINER HARRIS"
+      },
+      "type_of_material": "News",
+      "_id": "561b04547988101d11e0d8b0",
+      "word_count": "853",
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9806E5DD1E3CE334BC4B51DFB566838D669EDE",
+      "snippet": "WASHINGTON, March 22 Broadway musicals are not born, they are remade on the road, but if there ever was at least on paper a million-dollar sure thing it was \"1600 Pennsylvania Avenue.\"",
+      "lead_paragraph": "WASHINGTON, March 22 Broadway musicals are not born, they are remade on the road, but if there ever was at least on paper a million-dollar sure thing it was \"1600 Pennsylvania Avenue.\"",
+      "abstract": "comment on making of play; illus (L)",
+      "print_page": "22",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "'1600' Takes Rough Road to Broadway"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "SIXTEEN HUNDRED PENNSYLVANIA AVENUE"
+      }, {
+        "name": "subject",
+        "value": "THEATER"
+      }, {
+        "name": "subject",
+        "value": "REVIEWS AND OTHER DATA ON SPECIFIC PRODUCTIONS"
+      }],
+      "pub_date": "1976-03-23T00:00:00Z",
+      "document_type": "article",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "firstname": "Mel",
+          "middlename": "Gussow",
+          "lastname": "Special",
+          "rank": 1,
+          "role": "reported",
+          "organization": ""
+        }],
+        "original": "By MEL GUSSOW Special to The New York Times"
+      },
+      "type_of_material": "Article",
+      "_id": "4fc48f9f45c1498b0da594bd",
+      "word_count": 1640,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/www.nytimes.com\/1992\/08\/13\/theater\/review-music-1600-pennsylvania-avenue-tries-for-a-comeback-in-washington.html",
+      "snippet": "\"1600 Pennsylvania Avenue\" was run over on its way to Broadway 16 years ago and has been in traction ever since. Its producers wanted one more smiling face for the Bicentennial, but Leonard Bernstein and Alan Jay Lerner, who wrote the music and the...",
+      "lead_paragraph": "\"1600 Pennsylvania Avenue\" was run over on its way to Broadway 16 years ago and has been in traction ever since. Its producers wanted one more smiling face for the Bicentennial, but Leonard Bernstein and Alan Jay Lerner, who wrote the music and the words, had more earnest matters on their minds. Revised (or vandalized, according to your tastes) by others, the show ran for seven performances at the Mark Hellinger Theater and disappeared. This musical-as-social-tract has been revived by the Indiana University Opera Theater, which brought a basically student production to the Kennedy Center Tuesday night. Presenting the show as a rehearsal, with the players in street clothes and a small orchestra concealed at the back of the stage, the Indiana company operated from an original script and score submitted by the two creators before the first run-throughs, long before the ultimate editing in which they had no voice.",
+      "abstract": null,
+      "print_page": "17",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Review\/Music; 1600 Pennsylvania Avenue' Tries For a Comeback in Washington"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "1600 PENNSVYLVANIA AVENUE (MUSICAL)"
+      }, {
+        "name": "persons",
+        "value": "LERNER, ALAN JAY"
+      }, {
+        "name": "persons",
+        "value": "BERNSTEIN, LEONARD"
+      }, {
+        "name": "organizations",
+        "value": "INDIANA UNIVERSITY OPERA COMPANY"
+      }, {
+        "name": "subject",
+        "value": "REVIEWS"
+      }, {
+        "name": "subject",
+        "value": "THEATER"
+      }],
+      "pub_date": "1992-08-13T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Cultural Desk",
+      "section_name": "Arts; Theater",
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "firstname": "Bernard",
+          "rank": 1,
+          "lastname": "HOLLAND"
+        }],
+        "original": "By BERNARD HOLLAND"
+      },
+      "type_of_material": "Review",
+      "_id": "4fd1dd0b8eb7c8105d71f436",
+      "word_count": 614,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9E0DE3DC153DE333A25751C1A9639C946191D6CF",
+      "snippet": "YOU might say that in \"1600 Pennsylvania Avenue\" Walter Johnson takes a liberal view of liberal Presidents and a conservative view of conservative Presidents. That balanced bias, once you notice it, makes a vigorously stimulating book.",
+      "lead_paragraph": "YOU might say that in \"1600 Pennsylvania Avenue\" Walter Johnson takes a liberal view of liberal Presidents and a conservative view of conservative Presidents. That balanced bias, once you notice it, makes a vigorously stimulating book.",
+      "abstract": "Johnson, W: 1600 Pennsylvania Avenue: Presidents and the People, 1929-1959",
+      "print_page": "33",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Books of The Times"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "1600 PENNSYLVANIA AVENUE: PRESIDENTS AND THE PEOPLE, 1929-1959"
+      }, {
+        "name": "persons",
+        "value": "JOHNSON, W"
+      }, {
+        "name": "glocations",
+        "value": "UNITED STATES"
+      }, {
+        "name": "glocations",
+        "value": "MISCELLANEOUS SECTION"
+      }, {
+        "name": "subject",
+        "value": "PRESIDENTS"
+      }, {
+        "name": "subject",
+        "value": "BOOK REVIEWS"
+      }],
+      "pub_date": "1960-05-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "rank": 1,
+          "firstname": "Charles",
+          "lastname": "POORE"
+        }],
+        "original": "By CHARLES POORE"
+      },
+      "type_of_material": "Review",
+      "_id": "4fc4068345c1498b0d8b7d70",
+      "word_count": 818,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/www.nytimes.com\/1995\/05\/25\/opinion\/journal-ghosts-of-1600.html",
+      "snippet": "Did it happen too fast, or are we really that numb? You'd think the country might have taken a breath and paused to mark a turning point in history over the weekend when barricades abruptly sealed off the White House from drive-by voyeurs. Instead,...",
+      "lead_paragraph": "Did it happen too fast, or are we really that numb? You'd think the country might have taken a breath and paused to mark a turning point in history over the weekend when barricades abruptly sealed off the White House from drive-by voyeurs. Instead, there were a few sighs from politicians and Sunday TV pundits and some happy visuals of Roller bladers and pedestrians enjoying the newest mall-heaven, a sunny, car-free Pennsylvania Avenue. After which everyone went back to talking about . . . Connie Chung. Perhaps you have to have tasted a particular kind of freedom yourself to feel its absence. Granted, the freedom to drive by the White House on a spring evening with the windows open is not one of the four freedoms that Franklin Roosevelt enshrined while living there. Maybe this freedom meant something to me because I grew up with it.",
+      "abstract": null,
+      "print_page": "29",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Journal; Ghosts of 1600"
+      },
+      "keywords": [{
+        "name": "glocations",
+        "value": "PENNSYLVANIA AVENUE (WASHINGTON, DC)"
+      }, {
+        "name": "subject",
+        "value": "WHITE HOUSE (WASHINGTON, DC)"
+      }, {
+        "name": "subject",
+        "value": "SECURITY AND WARNING SYSTEMS"
+      }, {
+        "name": "subject",
+        "value": "TERRORISM"
+      }],
+      "pub_date": "1995-05-25T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial Desk",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "firstname": "Frank",
+          "rank": 1,
+          "lastname": "RICH"
+        }],
+        "original": "By FRANK RICH"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "4fd1f1828eb7c8105d747fdf",
+      "word_count": 733,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9D0CE1DA1330EE3BBC4E52DFB1668383679EDE",
+      "snippet": "WASHINGTON, Tuesday, July 16 -- The historic Willard Hotel, where Julia Ward Howe set down the words to \"The Battle Hymn of the Republic\" in a rush of inspiration one morning in 1861, closed suddenly at midnight.",
+      "lead_paragraph": "WASHINGTON, Tuesday, July 16 -- The historic Willard Hotel, where Julia Ward Howe set down the words to \"The Battle Hymn of the Republic\" in a rush of inspiration one morning in 1861, closed suddenly at midnight.",
+      "abstract": "Closes suddenly as ct orders eviction because of operating co's failure to meet lease payments to property owners; hotel's history as capital landmark discussed; illus",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Historic Willard Hotel in Capital Is Suddenly Closed; Historic Willard Hotel in Capital Suddenly Closed"
+      },
+      "keywords": [{
+        "name": "glocations",
+        "value": "WASHINGTON (DC)"
+      }, {
+        "name": "glocations",
+        "value": "WASHINGTON (DC)"
+      }, {
+        "name": "organizations",
+        "value": "WILLARD HOTEL"
+      }, {
+        "name": "subject",
+        "value": "PENNSYLVANIA AVENUE REBUILDING"
+      }],
+      "pub_date": "1968-07-16T00:00:00Z",
+      "document_type": "article",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "rank": 1
+        }],
+        "original": "Special to The New York Times"
+      },
+      "type_of_material": "Front Page",
+      "_id": "4fc467fd45c1498b0d9a81b8",
+      "word_count": 1339,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9E05EEDA1339E63BBC4F52DFBF66838E669EDE",
+      "snippet": "Coca-Cola is an angel. It will be the sole backer to the tune of $900,000 for \"1600 Pennsylvania Avenue,\" the new Broadway musical about the White House by Alan Jay Lerner and Leonard Bernstein.",
+      "lead_paragraph": "Coca-Cola is an angel. It will be the sole backer to the tune of $900,000 for \"1600 Pennsylvania Avenue,\" the new Broadway musical about the White House by Alan Jay Lerner and Leonard Bernstein.",
+      "abstract": "Sixteen Hundred Pennsylvania Avenue (Play): Coca-Cola will be sole backer, at $900,000, for Alan Jay Lerner-Leonard Bernstein musical 1600 Pennsylvania Av, about White House; Bernard L Jacobs, pres of Shubert Orgn, repts this may be record 'initial budget' for Bway musical; Coca-Cola will have 1st refusal if, after its run, musical becomes TV show rather than film; co participation came about because of Lerner's boyhood friendship with John Paul Austin, Coca-Cola bd chmn (M)",
+      "print_page": "38",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Coke Backs Lerner-Bernstein Show"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "SIXTEEN HUNDRED PENNSYLVANIA AVENUE"
+      }, {
+        "name": "glocations",
+        "value": "WHITE HOUSE (EXECUTIVE MANSION) (WASHINGTON DC)"
+      }, {
+        "name": "subject",
+        "value": "THEATER"
+      }, {
+        "name": "subject",
+        "value": "REVIEWS AND OTHER DATA ON SPECIFIC PRODUCTIONS"
+      }],
+      "pub_date": "1975-09-17T00:00:00Z",
+      "document_type": "article",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "rank": 1,
+          "firstname": "Mel",
+          "lastname": "GUSSOW"
+        }],
+        "original": "By MEL GUSSOW"
+      },
+      "type_of_material": "Article",
+      "_id": "4fc4926545c1498b0da656e1",
+      "word_count": 1007,
+      "slideshow_credits": null
+    }, {
+      "web_url": "http:\/\/www.nytimes.com\/1989\/09\/07\/us\/washington-talk-budding-museum-at-1600-pennsylvania-ave.html",
+      "snippet": "LEAD: The most famous address, 1600 Pennsylvania Avenue, evokes images of domesticity and statehood: of Abigail Adams drying her wash in the East Room, of Franklin Delano Roosevelt broadcasting his fireside chats in the Diplomatic Reception Room.",
+      "lead_paragraph": "LEAD: The most famous address, 1600 Pennsylvania Avenue, evokes images of domesticity and statehood: of Abigail Adams drying her wash in the East Room, of Franklin Delano Roosevelt broadcasting his fireside chats in the Diplomatic Reception Room.",
+      "abstract": null,
+      "print_page": "10",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [],
+      "headline": {
+        "main": "Budding Museum at 1600 Pennsylvania Ave.",
+        "kicker": "WASHINGTON TALK"
+      },
+      "keywords": [{
+        "name": "creative_works",
+        "value": "WASHINGTON TALK PAGE (NYT)"
+      }, {
+        "name": "glocations",
+        "value": "WHITE HOUSE (WASHINGTON, DC)"
+      }, {
+        "name": "subject",
+        "value": "RESTORATION AND REHABILITATION"
+      }, {
+        "name": "subject",
+        "value": "RESEARCH"
+      }],
+      "pub_date": "1989-09-07T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National Desk",
+      "section_name": "U.S.",
+      "subsection_name": null,
+      "byline": {
+        "person": [{
+          "organization": "",
+          "role": "reported",
+          "firstname": "Barbara",
+          "rank": 1,
+          "lastname": "GAMAREKIAN"
+        }, {
+          "organization": "",
+          "role": "reported",
+          "rank": 2
+        }],
+        "original": "By BARBARA GAMAREKIAN, Special to The New York Times"
+      },
+      "type_of_material": "News",
+      "_id": "4fd1a7e68eb7c8105d6c2f15",
+      "word_count": 1042,
+      "slideshow_credits": null
+    }]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
