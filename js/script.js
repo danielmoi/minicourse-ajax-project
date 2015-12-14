@@ -35,7 +35,7 @@ function loadData() {
     for (i = 0; i < data.response.docs.length; i++) {
       var headline = data.response.docs[i].headline.main;
       var snippet = data.response.docs[i].snippet;
-      var pubdate = data.response.docs[i].pub_date;
+      var pubdate = data.response.docs[i].pub_date.substring(0,10);
       var stuff = '<li>' + '<strong>' + headline + '</strong>' + '(' + pubdate + ')' + '<br>' + snippet + '<br>' + '</li>';
       $('#nytimes-articles').append(stuff);
 
