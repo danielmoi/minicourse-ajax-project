@@ -36,7 +36,8 @@ function loadData() {
       var headline = data.response.docs[i].headline.main;
       var snippet = data.response.docs[i].snippet;
       var pubdate = data.response.docs[i].pub_date.substring(0,10);
-      var stuff = '<li>' + '<strong>' + headline + '</strong>' + '(' + pubdate + ')' + '<br>' + snippet + '<br>' + '</li>';
+      var link = data.response.docs[i].web_url;
+      var stuff = '<li>' + '<a href="' + link + '">' + '<strong>' + headline + '</strong>'  + '</a>' + '(' + pubdate + ')' + '<br>' + snippet + '<br>' + '</li>';
       $('#nytimes-articles').append(stuff);
 
     }
