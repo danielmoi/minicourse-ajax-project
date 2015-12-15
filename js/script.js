@@ -26,7 +26,7 @@ function loadData() {
 
 
 
-  var nyURL = 'http://api.nytime.com/svc/search/v2/articlesearch.json?q=' + $street + '+' + $city + begin + '&api-key=' + api;
+  var nyURL = 'http://api.nytimes.com/svc/search/v2/articlesearch.json?q=' + $street + '+' + $city + begin + '&api-key=' + api;
 
   $.getJSON(nyURL, function (data) {
     console.log(data);
@@ -37,7 +37,7 @@ function loadData() {
       var snippet = data.response.docs[i].snippet;
       var pubdate = data.response.docs[i].pub_date.substring(0,10);
       var link = data.response.docs[i].web_url;
-      var stuff = '<li>' + '<a href="' + link + '">' + '<strong>' + headline + '</strong>'  + '</a>' + '(' + pubdate + ')' + '<br>' + snippet + '<br>' + '</li>';
+      var stuff = '<li>' + '<a href="' + link + '">' + '<strong>' + headline + '</strong>'  + '</a>' + ' (' + pubdate + ')' + '<br>' + snippet + '<br>' + '</li>';
       $('#nytimes-articles').append(stuff);
 
     }
